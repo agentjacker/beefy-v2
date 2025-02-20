@@ -6,7 +6,7 @@
   "type": "commonjs",
   "dependencies": {
     "@babel/runtime": "^7.17.2",
-    "@coinbase/wallet-sdk": "^3.0.10",
+    "@coinbase/wallet-sdk": "^3.6.4",
     "@deficonnect/web3-connector": "^2.0.3",
     "@download/blockies": "^1.0.3",
     "@ethersproject/address": "^5.4.0",
@@ -18,10 +18,10 @@
     "@reduxjs/toolkit": "^1.8.1",
     "@siddomains/sidjs": "^0.1.8",
     "@walletconnect/web3-provider": "^1.4.1",
-    "@web3-onboard/coinbase": "^2.0.10",
-    "@web3-onboard/core": "^2.8.3",
+    "@web3-onboard/coinbase": "^2.2.5",
+    "@web3-onboard/core": "^2.17.0",
     "@web3-onboard/injected-wallets": "^2.2.2",
-    "@web3-onboard/walletconnect": "^2.1.2",
+    "@web3-onboard/walletconnect": "^2.6.0",
     "axios": "^0.21.1",
     "bignumber.js": "^9.0.1",
     "blockchain-addressbook": "^0.41.10",
@@ -45,11 +45,11 @@
     "react-resize-detector": "^7.0.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "recharts": "^2.1.15",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
-    "web3": "^1.7.0"
+    "web3": "^4.0.1"
   },
   "resolutions": {
     "web3": "^1.7.0",
